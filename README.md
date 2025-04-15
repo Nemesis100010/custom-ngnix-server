@@ -26,13 +26,13 @@ project-folder/ │ ├── index.html # Home page ├── style.css # Examp
 ## 🚀 Getting Started
 
 1. Clone the repo:
-```bash
-git clone https://github.com/your-username/custom-node-server.git
+   
+git clone https://github.com/Nemesis100010/custom-ngnix-server.git
 cd custom-node-server
 node server.js
 http://localhost:3000
 
-🛠 Tech Stack
+##🛠 Tech Stack
 
 Node.js (Core Modules only)
 
@@ -49,5 +49,5 @@ This is a learning project, but PRs, suggestions, and improvements are welcome!
 
 📢 Author
 Koustuve Shyamal
-Connect with me on 
-Follow my journey on Twitter/X — #LearnInPublic
+Connect with me on https://www.linkedin.com/in/koustuve-shyamal-11653b348/
+Follow my journey on https://x.com/KoustuveS — #LearnInPublic
